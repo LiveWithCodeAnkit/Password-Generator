@@ -1,12 +1,12 @@
 ## Password Generator
 
 ### Overview
-This is a simple Password Generator built using HTML, CSS, and JavaScript. The generator allows users to create strong and secure passwords with custom options.
+This is a simple Password Generator built using HTML, CSS, and JavaScript. The generator allows users to create strong and secure passwords 
 
 ### Features
 - Generate random passwords with custom length
 - Include uppercase letters, lowercase letters, numbers, and special characters in the password
-- Copy the generated password to the clipboard with a single click
+
 
 ### Usage
 To use the Password Generator, follow these steps:
